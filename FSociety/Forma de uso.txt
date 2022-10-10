@@ -1,0 +1,29 @@
+Descargar el codeblocks desde aca: 
+https://sourceforge.net/projects/codeblocks/files/Binaries/17.12/Windows/codeblocks-17.12mingw-nosetup.zip/download
+
+Una vez extraido el archivo. Ir a:
+Settings:
+	compiler:
+		 Toolchain Executables:
+				       pegar en "compiler's intallation directory" 
+				       la ruta de la carpeta bin dentro de MinGW de
+				       la carpeta del codeblocks.
+
+
+Luego ir al mismo lugar:
+Settings:
+	compiler:
+		 Linker settings:
+				 Y en la caja de la derecha pegar este comando: -lwinmm
+
+
+Listo para ejectuar!
+
+Una vez ejecutado para que se vea bien la interfaz del usuario hay que:
+
+*Hacer click en icono de la ventana (esquina izquierda arriba) al lado de la ruta y hacer click en el.
+*Tocar en propiedades.
+*Ir a diseño.
+*Colar en Tamaño de la ventana: ancho = 146 y alto = 35.
+
+Listo para usar!

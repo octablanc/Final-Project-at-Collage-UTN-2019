@@ -1,0 +1,100 @@
+Autor Octavio Blanc
+Fecha de elaboracion : 7/6/2019 en la clase de programacion,
+
+-Creacion de la libreria "menu", para el Menu de inicio y el Menu para ingresar usuario y contraseña.
+----------------------------------------------------------------------
+
+8/6/2019
+Autor Octavio Blanc
+-Primer problema: Como reconocer las felchas del teclado.
+
+Solucion: https://elrincondelc.com/foros/viewtopic.php?t=18151
+
+-Funcion parar mover el cursor y que devuelva una opcion, para poder ponerlo en cualquier lado (Sirve 
+para elegir una ocion en algun switch).
+
+-Menu para registrarse en el programa.
+
+-Funcion para poder crear el usuario.
+
+-Problema: Como hacer para que aparezcan asteriscos cuando el usuaro ingrese su contraseña.
+
+Solucion: https://elrincondelc.com/foros/viewtopic.php?t=3880
+
+-Funciones para poder iniciar sesion como Admin (4 funciones).
+-----------------------------------------------------------------------
+
+9/6/2019
+
+Autor Octavio Blanc
+-Funcion de usuarios
+
+-Funcion para Alta y Baja (Con sus funciones de menu)
+
+-Funcion de listado(Con sus funciones de menu)
+*Modificacion
+------------------------------------------------------------------------
+
+15/6/2019
+
+Autor Octavio Blanc
+
+-Funcion para modificar usurio(Con sus funciones de menu)
+
+-Funcon encontrar usuario(Con sus funciones de menu)
+
+-Funcion posId
+
+-Funcion condifucrar usuario(Con sus funciones de menu)
+------------------------------------------------------------------------
+
+16/6/2019
+Autor Octavio Blan
+
+-Funcion CargarArchivoCancion (Con sus funciones de graficos)
+
+-Funcion BuscarCancionNombre (Con sus funciones de graficos)
+
+-Funcion MostrarCancion (Con sus funciones de graficos)
+
+-Funcion MostrarCancionUsuario (Con sus funciones de graficos)
+
+-Funcion ModificarCancion (Con sus funciones de graficos)
+
+-Funcion CargarPlaylist (Con sus funciones de graficos)
+-----------------------------------------------------------------------
+
+17/6/2019
+Autor Octavio Blanc
+
+-Funcion MostrarCancionesPLaylist (Con sus funciones de graficos)
+
+-Funcion MostrarPlayList (Con sus funciones de playlist)
+
+Autor Agustin Lapenna
+-Problema: Como reproducir musica
+
+Solucion: https://stackoverflow.com/questions/22253074/how-to-play-or-open-mp3-or-wav-sound-file-in-c-program
+
+Autor Octavio Blanc
+-Funciones de Reproductor de Musica
+-----------------------------------------------------------------------
+
+27/6/2019
+Autor Agustin Lapenna
+
+-Funcion buscarCancionID
+
+-Funcion masEscuchado
+
+-Funcion mostrarRecomendado
+
+Autor Octavio Blanc
+
+-Funcion Mostrar5CancionesPorGenero
+
+-Funcion VerificarQueLaCancionNoSeRepita
+
+-Funcion InsertarID
+
+

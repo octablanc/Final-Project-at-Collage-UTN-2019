@@ -1,0 +1,327 @@
+# depslib dependency file v1.0
+1558817311 source:c:\users\octav\desktop\tsp\pruebas\tpfinal\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1560983408 source:c:\users\octav\desktop\tsp\pruebas\tpfinal\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"gotoxy.h"
+	"menu.h"
+
+1560983219 c:\users\octav\desktop\tsp\pruebas\tpfinal\menu.h
+
+1558548302 c:\users\octav\desktop\tsp\pruebas\tpfinal\gotoxy.h
+
+1561129343 source:c:\users\octav\desktop\tsp\pruebas\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+	"gotoxy.h"
+	"menu.h"
+	"manejoDeUsuarios.h"
+	"manejoDeCanciones.h"
+	"reproductor.h"
+
+1560835919 c:\users\octav\desktop\tsp\pruebas\tpfinal\manejodeusuarios.h
+
+1560983365 source:c:\users\octav\desktop\tsp\pruebas\tpfinal\manejodeusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"gotoxy.h"
+	"manejoDeUsuarios.h"
+	"menu.h"
+
+1560908336 source:c:\users\octav\desktop\tsp\pruebas\tpfinal\manejodecanciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"gotoxy.h"
+	"manejoDeCanciones.h"
+	"manejoDeUsuarios.h"
+
+1560854218 c:\users\octav\desktop\tsp\pruebas\tpfinal\manejodecanciones.h
+
+1560984688 source:c:\users\octav\desktop\tsp\pruebas\tpfinal\reproductor.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<Mmsystem.h>
+	"reproductor.h"
+	"manejoDeCanciones.h"
+
+1560845396 c:\users\octav\desktop\tsp\pruebas\tpfinal\reproductor.h
+
+1558817311 source:c:\users\octav\desktop\cosas\tsp\pruebas\tpfinal\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1560908336 source:c:\users\octav\desktop\cosas\tsp\pruebas\tpfinal\manejodecanciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"gotoxy.h"
+	"manejoDeCanciones.h"
+	"manejoDeUsuarios.h"
+
+1558548302 c:\users\octav\desktop\cosas\tsp\pruebas\tpfinal\gotoxy.h
+
+1560854218 c:\users\octav\desktop\cosas\tsp\pruebas\tpfinal\manejodecanciones.h
+
+1560835919 c:\users\octav\desktop\cosas\tsp\pruebas\tpfinal\manejodeusuarios.h
+
+1560983365 source:c:\users\octav\desktop\cosas\tsp\pruebas\tpfinal\manejodeusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"gotoxy.h"
+	"manejoDeUsuarios.h"
+	"menu.h"
+
+1560983219 c:\users\octav\desktop\cosas\tsp\pruebas\tpfinal\menu.h
+
+1560984688 source:c:\users\octav\desktop\cosas\tsp\pruebas\tpfinal\reproductor.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<Mmsystem.h>
+	"reproductor.h"
+	"manejoDeCanciones.h"
+
+1560845396 c:\users\octav\desktop\cosas\tsp\pruebas\tpfinal\reproductor.h
+
+1558817311 source:c:\users\octav\documents\cosas\tsp\pruebas\tpfinal\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1560983365 source:c:\users\octav\documents\cosas\tsp\pruebas\tpfinal\manejodeusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"gotoxy.h"
+	"manejoDeUsuarios.h"
+	"menu.h"
+
+1558548302 c:\users\octav\documents\cosas\tsp\pruebas\tpfinal\gotoxy.h
+
+1560835919 c:\users\octav\documents\cosas\tsp\pruebas\tpfinal\manejodeusuarios.h
+
+1560983219 c:\users\octav\documents\cosas\tsp\pruebas\tpfinal\menu.h
+
+1561656659 source:c:\users\octav\documents\cosas\tsp\pruebas\tpfinal\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"gotoxy.h"
+	"menu.h"
+
+1561681410 source:c:\users\octav\documents\cosas\tsp\pruebas\tpfinal\reproductor.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<Mmsystem.h>
+	"gotoxy.h"
+	"reproductor.h"
+	"manejoDeCanciones.h"
+
+1560845396 c:\users\octav\documents\cosas\tsp\pruebas\tpfinal\reproductor.h
+
+1561663878 c:\users\octav\documents\cosas\tsp\pruebas\tpfinal\manejodecanciones.h
+	"manejoDeUsuarios.h"
+
+1561681599 source:c:\users\octav\documents\cosas\tsp\pruebas\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+	"gotoxy.h"
+	"menu.h"
+	"manejoDeUsuarios.h"
+	"manejoDeCanciones.h"
+	"reproductor.h"
+
+1561680071 source:c:\users\octav\documents\cosas\tsp\pruebas\tpfinal\manejodecanciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"gotoxy.h"
+	"manejoDeCanciones.h"
+	"manejoDeUsuarios.h"
+
+1558817312 source:c:\users\octa\documents\tsp\pruebas\tpfinal\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1561680072 source:c:\users\octa\documents\tsp\pruebas\tpfinal\manejodecanciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"gotoxy.h"
+	"manejoDeCanciones.h"
+	"manejoDeUsuarios.h"
+
+1558548304 c:\users\octa\documents\tsp\pruebas\tpfinal\gotoxy.h
+
+1561663880 c:\users\octa\documents\tsp\pruebas\tpfinal\manejodecanciones.h
+	"manejoDeUsuarios.h"
+
+1560835920 c:\users\octa\documents\tsp\pruebas\tpfinal\manejodeusuarios.h
+
+1560983366 source:c:\users\octa\documents\tsp\pruebas\tpfinal\manejodeusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"gotoxy.h"
+	"manejoDeUsuarios.h"
+	"menu.h"
+
+1560983220 c:\users\octa\documents\tsp\pruebas\tpfinal\menu.h
+
+1571244474 source:c:\users\octa\documents\tsp\pruebas\tpfinal\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"gotoxy.h"
+	"menu.h"
+
+1561681412 source:c:\users\octa\documents\tsp\pruebas\tpfinal\reproductor.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<Mmsystem.h>
+	"gotoxy.h"
+	"reproductor.h"
+	"manejoDeCanciones.h"
+
+1560845398 c:\users\octa\documents\tsp\pruebas\tpfinal\reproductor.h
+
+1662978302 source:c:\users\octa\documents\tsp\pruebas\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+	"gotoxy.h"
+	"menu.h"
+	"manejoDeUsuarios.h"
+	"manejoDeCanciones.h"
+	"reproductor.h"
+
+1558817312 source:c:\users\octa\downloads\tpfinal\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1571243062 source:c:\users\octa\downloads\tpfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+	"gotoxy.h"
+	"menu.h"
+	"manejoDeUsuarios.h"
+	"manejoDeCanciones.h"
+	"reproductor.h"
+
+1558548304 c:\users\octa\downloads\tpfinal\gotoxy.h
+
+1560983220 c:\users\octa\downloads\tpfinal\menu.h
+
+1560835920 c:\users\octa\downloads\tpfinal\manejodeusuarios.h
+
+1561663880 c:\users\octa\downloads\tpfinal\manejodecanciones.h
+	"manejoDeUsuarios.h"
+
+1560845398 c:\users\octa\downloads\tpfinal\reproductor.h
+
+1561680072 source:c:\users\octa\downloads\tpfinal\manejodecanciones.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"gotoxy.h"
+	"manejoDeCanciones.h"
+	"manejoDeUsuarios.h"
+
+1560983366 source:c:\users\octa\downloads\tpfinal\manejodeusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<mmsystem.h>
+	"gotoxy.h"
+	"manejoDeUsuarios.h"
+	"menu.h"
+
+1571244474 source:c:\users\octa\downloads\tpfinal\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	"gotoxy.h"
+	"menu.h"
+
+1561681412 source:c:\users\octa\downloads\tpfinal\reproductor.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<Mmsystem.h>
+	"gotoxy.h"
+	"reproductor.h"
+	"manejoDeCanciones.h"
+
